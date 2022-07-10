@@ -49,6 +49,9 @@ ul li.checked::before {
   width: 7px;
 }
 
+li button {
+}
+
 .close {
   position: absolute;
   right: 0;
@@ -59,7 +62,6 @@ ul li.checked::before {
 .close:hover {
   background-color: #f78501;
   color: white;
-
 }
 
 .header {
